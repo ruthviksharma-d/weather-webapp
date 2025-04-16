@@ -3,3 +3,4 @@ A simple web-based weather application that displays current weather information
 <br><hr>
 Author - Ruthvik Sharma , Tejaaa1
 <br><hr>
+---
